@@ -40,7 +40,7 @@ The generated reports help organizations:
 1. Create **Profit & Loss (P&L) Reports** by:
 
    * Fiscal Year (https://github.com/Jordan844/Excel-Sales-Analytics/blob/main/P%26L%20By%20Fiscal%20Year%20By%20Country.pdf)
-   * Months
+   * Months (https://github.com/Jordan844/Excel-Sales-Analytics/blob/main/P%26L%20By%20Fiscal%20Months.pdf)
 2. Create **Profit & Loss (P&L) Reports** by Markets.
 
 ### 🚀 Purpose of Financial Analytics
