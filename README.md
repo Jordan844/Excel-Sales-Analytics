@@ -107,7 +107,7 @@ The reports help organizations:
 
 💼 **LinkedIn:** https://www.linkedin.com/in/jordan9899/
 
-🐙 **GitHub:** https://github.com/your-github-username
+🐙 **GitHub:** https://github.com/Jordan844
 
 ---
 
