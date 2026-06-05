@@ -99,3 +99,16 @@ The reports help organizations:
 * Improved sales and financial performance visibility.
 * Enabled data-driven decision-making through structured reporting.
 * Demonstrated practical Excel analytics, data modeling, and reporting expertise.
+---
+
+## 📬 Connect With Me
+
+📧 **Email:** [yourname@gmail.com](mailto:jordansingh9899@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/jordan9899/
+
+🐙 **GitHub:** https://github.com/your-github-username
+
+---
+
+⭐ If you found this project interesting, feel free to connect with me and explore my other projects.
