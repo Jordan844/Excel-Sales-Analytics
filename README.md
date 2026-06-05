@@ -39,7 +39,7 @@ The generated reports help organizations:
 
 1. Create **Profit & Loss (P&L) Reports** by:
 
-   * Fiscal Year
+   * Fiscal Year (https://github.com/Jordan844/Excel-Sales-Analytics/blob/main/P%26L%20By%20Fiscal%20Year%20By%20Country.pdf)
    * Months
 2. Create **Profit & Loss (P&L) Reports** by Markets.
 
