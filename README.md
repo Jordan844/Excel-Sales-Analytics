@@ -10,7 +10,7 @@ This project focuses on analyzing Sales and Finance data using Excel, Power Quer
 
 ### 🎯 Project Objectives
 
-1. [Create a **Customer Performance Report**.] (https://github.com/Jordan844/Excel-Sales-Analytics/blob/main/Customer_net_sales_performance.pdf)
+1. [Create a **Customer Performance Report**.](https://github.com/Jordan844/Excel-Sales-Analytics/blob/main/Customer_net_sales_performance.pdf)
 2. Conduct a comprehensive comparison between **Market Performance** and **Sales Targets**. (https://github.com/Jordan844/Excel-Sales-Analytics/blob/main/Market_performance.pdf)
 
 ### 🚀 Purpose of Sales Analytics
