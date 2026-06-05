@@ -103,7 +103,7 @@ The reports help organizations:
 
 ## 📬 Connect With Me
 
-📧 **Email:** [yourname@gmail.com](mailto:jordansingh9899@gmail.com)
+📧 **Email:** jordansingh9899@gmail.com
 
 💼 **LinkedIn:** https://www.linkedin.com/in/jordan9899/
 
